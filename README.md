@@ -23,7 +23,8 @@ Materials & UV Section:
 
 Vertex Tools Section:
 - Vertex tool for selecting nearest UNCONNECTED vertex and copying the vertex weight. Ideal for when you need to maintain form of objects like spikes and studs when mesh is being deformed by armature movement.
-- Ensure that the spike/stud/button is not connected to the mesh with weights and click on "Copy Vertex Weight from Nearest Unconnected". The script does a fairly decent job of finding the closest vertex behind but it's not entirely perfect. 
+- Ensure you're in EDIT mode and Vertex Selection Mode.
+- Make sure that the spike/stud/button is not connected to the mesh with weights and click on "Copy Vertex Weight from Nearest Unconnected". The script does a fairly decent job of finding the closest vertex behind but it's not entirely perfect. 
 - TIP: Right click on the "Copy Vertex Weight from Nearest Unconnected" button and add it to your favourites. Now you can quickly access it without repeatedly going to the n-Panel.
 
 
